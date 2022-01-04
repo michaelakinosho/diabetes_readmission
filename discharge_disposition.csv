@@ -1,0 +1,31 @@
+discharge_disposition_id,description,Cluster
+1,Discharged to home,Home
+2,Discharged/transferred to another short term hospital,Care Facility
+3,Discharged/transferred to SNF,Care Facility
+4,Discharged/transferred to ICF,Care Facility
+5,Discharged/transferred to another type of inpatient care institution,Care Facility
+6,Discharged/transferred to home with home health service,Home
+7,Left AMA,AMA
+8,Discharged/transferred to home under care of Home IV provider,Home
+9,Admitted as an inpatient to this hospital,Care Facility
+10,Neonate discharged to another hospital for neonatal aftercare,Care Facility
+11,Expired,Expired
+12,Still patient or expected to return for outpatient services,Care Facility
+13,Hospice / home,Expired
+14,Hospice / medical facility,Expired
+15,Discharged/transferred within this institution to Medicare approved swing bed,Care Facility
+16,Discharged/transferred/referred another institution for outpatient services,Care Facility
+17,Discharged/transferred/referred to this institution for outpatient services,Home
+18,NULL,Expired
+19,"Expired at home. Medicaid only, hospice.",Expired
+20,"Expired in a medical facility. Medicaid only, hospice.",Expired
+21,"Expired, place unknown. Medicaid only, hospice.",Expired
+22,Discharged/transferred to another rehab fac including rehab units of a hospital .,Care Facility
+23,Discharged/transferred to a long term care hospital.,Care Facility
+24,Discharged/transferred to a nursing facility certified under Medicaid but not certified under Medicare.,Care Facility
+25,Not Mapped,Expired
+26,Unknown/Invalid,Expired
+30,Discharged/transferred to another Type of Health Care Institution not Defined Elsewhere,Care Facility
+27,Discharged/transferred to a federal health care facility.,Care Facility
+28,Discharged/transferred/referred to a psychiatric hospital of psychiatric distinct part unit of a hospital,Care Facility
+29,Discharged/transferred to a Critical Access Hospital (CAH).,Care Facility
