@@ -5,5 +5,5 @@
  <h3>Not readmitted</h3>
  <h2>Technical Presentation on Preprocessing, Analysis and Visualization</h2>
  <iframe src="/Michael_Akinosho_diabetes_presentation_technical.pdf" alt="First Order" width="min-content" height="min-content"/>
- <link rel="stylesheet" href="/Michael_Akinosho_diabetes_presentation_technical.pdf">
+ <link href="/Michael_Akinosho_diabetes_presentation_technical.pdf">
  
