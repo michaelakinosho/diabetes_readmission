@@ -7,5 +7,5 @@
  </ol>
  
  <h2>Technical Presentation on Preprocessing, Analysis and Visualization</h2>
- <p><img src="/project_proposal/current_order2.jpg" alt="First Order" width="min-content" height="min-content"/></p>
+ <p><img src="/Presentation Slides Diabetes Readmission - Non-Technical.jpg" alt="First Order" width="min-content" height="min-content"/></p>
  
