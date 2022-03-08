@@ -4,5 +4,5 @@
  <h3>Readmitted after 30 days of discharge</h3>
  <h3>Not readmitted</h3>
  <h2>Technical Presentation on Preprocessing, Analysis and Visualization</h2>
- 
+ https://github.com/michaelakinosho/diabetes_readmission/blob/main/Michael_Akinosho_diabetes_presentation_technical.pdf
  
