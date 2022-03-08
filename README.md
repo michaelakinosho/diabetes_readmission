@@ -10,5 +10,6 @@
  <a href="https://www.w3schools.com">
 <img src="w3html.gif" alt="W3Schools.com" width="100" height="132">
 </a>
- <a href="/Presentation Slides Diabetes Readmission - Non-Technical.pdf"><img src="/Presentation Slides Diabetes Readmission - Non-Technical.jpg" alt="First Order" width="min-content" height="min-content"/></a>
+ <a href="/Michael_Akinosho_diabetes_presentation_technical.pdf"><img src="/Presentation Slides Diabetes Readmission - Non-Technical.jpg" alt="First Order" width="min-content" height="min-content"/></a>
  
+Michael_Akinosho_diabetes_presentation_technical.pdf
