@@ -7,6 +7,5 @@
  </ol>
  
  <h2>Technical Presentation on Preprocessing, Analysis and Visualization</h2>
- <iframe src="https://www.w3schools.com">test</iframe>
- /blob/main/Michael_Akinosho_diabetes_presentation_technical.pdf
+ <p><img src="/project_proposal/current_order2.jpg" alt="First Order" width="min-content" height="min-content"/></p>
  
